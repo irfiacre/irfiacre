@@ -1,6 +1,6 @@
 ### Hi there 👋 I am IRADUKUNDA Allelua Fiacre
 
-> A passionate, hard-working full-stack software engineer who likes challenges and solving real-world problems by writing clean, well-tested code to ensure the sustainability of built applications.
+> A Passionate Full-stack software engineer who likes challenges and solving real-world problems by writing clean, well-tested code to ensure the sustainability of built applications.
 
 #### 💻 Projects
 
