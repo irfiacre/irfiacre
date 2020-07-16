@@ -1,7 +1,5 @@
 ### Hi there 👋 I am IRADUKUNDA Allelua Fiacre
 
-[![IrFiacre](https://github.com/irfiacre/portfolio/blob/ft-building-all/src/assets/photo.png)](https://www.linkedin.com/in/irfiacre/)
-
 "A passionate, hard-working full-stack software engineer who likes challenges and solving real-world problems by writing clean, well-tested code to ensure the sustainability of built applications."
 
 #### 📫 How to reach me: 
