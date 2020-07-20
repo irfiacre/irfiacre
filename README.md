@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/52471122/87921394-cd746680-ca7a-11ea-9745-9d9d83af5914.png)
+![image](https://user-images.githubusercontent.com/52471122/87921743-4d023580-ca7b-11ea-9759-dbcbe58b7798.png)
 
 #### 📫 How to reach me: 
    - Email: firaduk@yahoo.com
