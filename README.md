@@ -5,8 +5,8 @@
    - Telephone: +250786585608
    - LinkedIn: [irfiacre](https://www.linkedin.com/in/irfiacre/)
    - Portfolio: [here](https://irfiacre.herokuapp.com/)
-   
 
+![irfiacre's github stats](https://github-readme-stats.vercel.app/api?username=irfiacre&show_icons=true&hide=stars,issues)
 ##### 😄 Pronouns: Him/He   
 
 <!--
