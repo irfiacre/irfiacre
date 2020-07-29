@@ -1,5 +1,10 @@
 ![image](https://user-images.githubusercontent.com/52471122/87921743-4d023580-ca7b-11ea-9759-dbcbe58b7798.png)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/irfiacre/count.svg" />
+</p>
+
 #### 📫 How to reach me: 
    - Email: firaduk@yahoo.com
    - Telephone: +250786585608
