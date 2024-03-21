@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/52471122/87921743-4d023580-ca7b-11ea-9759-dbcbe58b7798.png)
-
 #### 📫 How to reach me: 
    - Email: irfiacre@gmail.com
    - Telephone: +250786585608
