@@ -1,6 +1,5 @@
 #### 📫 How to reach me: 
    - Email: irfiacre@gmail.com
-   - Telephone: +250786585608
    - LinkedIn: [irfiacre](https://www.linkedin.com/in/irfiacre/)
    - Portfolio: [here](https://irfiacre.herokuapp.com/)
 
