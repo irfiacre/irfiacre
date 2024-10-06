@@ -1,7 +1,7 @@
 #### 📫 How to reach me: 
    - Email: irfiacre@gmail.com
    - LinkedIn: [irfiacre](https://www.linkedin.com/in/irfiacre/)
-   - Portfolio: [here](https://irfiacre.herokuapp.com/)
+   - Portfolio: [here](https://busydev.netlify.app/)
 
 <!--
 **irfiacre/irfiacre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
