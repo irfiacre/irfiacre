@@ -1,7 +1,6 @@
-Passionate AI Engineer, with 6 years of professional Software Engineering experience.
+Founder @ Button, with a love for AI Engineering (Opensource contributor @langchain).
 
 #### 📫 How to reach me: 
-   - Email: irfiacre@gmail.com
+   - Email: irfiacre@gmail.com | iradukunda@button.org.rw
    - LinkedIn: [irfiacre](https://www.linkedin.com/in/irfiacre/)
-   - Portfolio: [here](https://iradukunda.dev)
    - Checkout my content [Youtube](https://www.youtube.com/@alleluaa)
